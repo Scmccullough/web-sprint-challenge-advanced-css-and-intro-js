@@ -293,7 +293,7 @@ For example lotsOfArt(artists); will return ["Amedeo Modigliani", "Rene Magritte
 
 function lotsOfArt(/*Your Code Here*/){
   /*Your Code Here*/
-}
+} 
 
 
 
